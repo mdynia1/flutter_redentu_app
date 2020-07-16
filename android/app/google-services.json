@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338384596494",
+    "firebase_url": "https://redentutesttask.firebaseio.com",
+    "project_id": "redentutesttask",
+    "storage_bucket": "redentutesttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338384596494:android:df3b4ac3385995e6a4565f",
+        "android_client_info": {
+          "package_name": "mollly.redentuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338384596494-704oan1nvu7m8o1eeh6lgi3rlsmgm4ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkgIsbq-0LQH3AD1Jm3DtktjEPbM9S8BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338384596494-704oan1nvu7m8o1eeh6lgi3rlsmgm4ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
